@@ -2,8 +2,9 @@
 <h3 align="center">Iam a student at Faculty of Computers and Artificial Intelligence, Cairo university.</h3>
 
 <h3 align="left">Connect with me:</h3>
-[![Codeforces Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg)](https://codeforces.com/profile/Mazen_Abdelfattah)
-[![LinkedIn Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mazen-abdelfattah-b3092a2b3)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40">](https://codeforces.com/profile/Mazen_Abdelfattah)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40">](https://linkedin.com/in/mazen-abdelfattah-b3092a2b3)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
