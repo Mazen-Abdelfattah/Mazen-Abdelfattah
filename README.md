@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am a student at Faculty of Computers and Artificial Intelligence, Cairo University.</h3>
+<h3 align="left">I am a student at the Faculty of Computers and Artificial Intelligence, Cairo University.</h3>
 
 ###
 
@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mazen-Abdelfattah/Mazen-Abdelfattah/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mazen-Abdelfattah/output/main/snake.gif" alt="Snake animation" />
 
 ###
