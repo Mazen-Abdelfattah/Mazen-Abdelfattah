@@ -48,9 +48,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mazen-Abdelfattah/output/main/snake.gif" alt="Snake animation" />
-
-###
