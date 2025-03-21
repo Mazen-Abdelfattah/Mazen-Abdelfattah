@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am a student at the Faculty of Computers and Artificial Intelligence, Cairo University.</h3>
+<h3 align="left">I am currently a Junior CS student at Cairo University (FCAI-CU).</h3>
 
 ###
 
