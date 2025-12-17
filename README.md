@@ -1,8 +1,8 @@
-<h2 align="left">👋 Hi, I’m Mazen Abdelfattah</h2>
+<h2 align="left">👋 Hi, I’m Mazen Mekky</h2>
 
 ###
 
-<h3 align="left">I am currently a Junior CS student at Cairo University (FCAI-CU).</h3>
+<h3 align="left">I am currently a Senior CS student at Cairo University (FCAI-CU).</h3>
 
 ###
 
